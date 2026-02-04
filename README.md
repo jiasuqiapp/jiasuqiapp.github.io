@@ -1,4 +1,4 @@
-# 1月28日|最高速度19M/S，2025最新ClashVerge免费节点高速订阅链接  更新时间 2026-01-28 10:45:46
+# 2月4日|最高速度22.1M/S，2025最新ClashVerge免费节点高速订阅链接  更新时间 2026-02-04 09:03:24
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://jiasuqiapp.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://jiasuqiapp.github.io/uploads/2026/01/0-20260128.yaml
-- https://jiasuqiapp.github.io/uploads/2026/01/1-20260128.yaml
-- https://jiasuqiapp.github.io/uploads/2026/01/2-20260128.yaml
-- https://jiasuqiapp.github.io/uploads/2026/01/3-20260128.yaml
-- https://jiasuqiapp.github.io/uploads/2026/01/4-20260128.yaml
+- https://jiasuqiapp.github.io/uploads/2026/02/0-20260204.yaml
+- https://jiasuqiapp.github.io/uploads/2026/02/1-20260204.yaml
+- https://jiasuqiapp.github.io/uploads/2026/02/2-20260204.yaml
+- https://jiasuqiapp.github.io/uploads/2026/02/3-20260204.yaml
+- https://jiasuqiapp.github.io/uploads/2026/02/4-20260204.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://jiasuqiapp.github.io/uploads/2026/01/0-20260128.txt
-- https://jiasuqiapp.github.io/uploads/2026/01/1-20260128.txt
-- https://jiasuqiapp.github.io/uploads/2026/01/2-20260128.txt
-- https://jiasuqiapp.github.io/uploads/2026/01/3-20260128.txt
-- https://jiasuqiapp.github.io/uploads/2026/01/4-20260128.txt
+- https://jiasuqiapp.github.io/uploads/2026/02/0-20260204.txt
+- https://jiasuqiapp.github.io/uploads/2026/02/1-20260204.txt
+- https://jiasuqiapp.github.io/uploads/2026/02/2-20260204.txt
+- https://jiasuqiapp.github.io/uploads/2026/02/3-20260204.txt
+- https://jiasuqiapp.github.io/uploads/2026/02/4-20260204.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://jiasuqiapp.github.io/uploads/2026/01/20260128.json
+- https://jiasuqiapp.github.io/uploads/2026/02/20260204.json
 
 ## 更多Clash节点订阅 ：
 
